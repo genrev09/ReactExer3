@@ -1,0 +1,8 @@
+.App{
+    text-align: center;
+    background: #282c34;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    font-size: calc(10px + 2vmin);
+}
